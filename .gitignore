@@ -2,7 +2,7 @@
 .idea/
 
 # Modulos
-lib/adminlte
+lib/adminlte/
 
 
 # Logs
