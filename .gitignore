@@ -1,3 +1,10 @@
+# Intellij
+.idea/
+
+# Modulos
+lib/
+
+
 # Logs
 logs
 *.log
