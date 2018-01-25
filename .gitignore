@@ -6,6 +6,7 @@ lib/adminlte/
 
 # Credenciales
 dbconf.php
+includes/dbconn.php
 
 
 # Logs
