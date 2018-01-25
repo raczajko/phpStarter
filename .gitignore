@@ -4,6 +4,9 @@
 # Modulos
 lib/adminlte/
 
+# Credenciales
+dbconf.php
+
 
 # Logs
 logs
