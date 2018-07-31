@@ -13,16 +13,9 @@ Template -> https://github.com/almasaeed2010/AdminLTE
 
 git clone https://github.com/raczajko/phpStarter
 
-#### Iniciamos submodulos:  
+#### Agregamos AdminLTE:  
 
 cd phpStarter
 
-git submodule update --init --recursive  
-
-#### si hace falta se especifica la version de adminlte a usarse:
-
-Reemplazamos v2.4.2 con el tag de nuestra preferencia o ultima version
-
-cd lib/adminlte
-
-git checkout v2.4.2  
+#### En este caso la version 2.4.5
+git clone -b 'v2.4.5' --single-branch --depth 1 https://github.com/almasaeed2010/AdminLTE lib/adminlte    
